@@ -1,3 +1,5 @@
 hist(rnorm(1000))
 
-hist(rnorm(1000, color = "purple"))
+# I made a change.
+
+
